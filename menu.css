@@ -1,0 +1,30 @@
+body{
+    background: linear-gradient( to right, rgb(189, 211, 222), rgb(2, 136, 153));
+}
+.heading{
+    color:white;
+    font-weight:bold;
+    text-align:center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.grilled>p{
+    color:white;
+    font-size:20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.pizza>p{
+    color:white;
+    font-size:20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.salads>p{
+    color:white;
+    font-size:20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.maincourse>p{
+    
+    color:white;
+    font-size:20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
